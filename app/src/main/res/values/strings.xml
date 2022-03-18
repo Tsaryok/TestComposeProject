@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestComposeProject</string>
+
+    <string name="profile_title">Профиль</string>
+    <string name="unauthorized_profile_title">Войдите или создайте аккаунт, чтобы получить больше возможностей!</string>
+    <string name="unauthorized_profile_sign_in_action">Войти или зарегистрироваться</string>
+    <string name="auth_title">Вход</string>
+    <string name="auth_phone_number">Номер телефона</string>
+    <string name="auth_enter_phone_number_hint">Введите номер телефона</string>
+    <string name="auth_enter_phone_number_description">На этот номер мы отправим вам SMS с кодом</string>
+    <string name="auth_get_code_action">Получить код</string>
+</resources>
